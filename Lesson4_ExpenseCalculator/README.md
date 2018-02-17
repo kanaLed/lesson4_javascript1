@@ -13,7 +13,7 @@ Kana Ledbetter
 This assignment is a part of the lesson 4 in FSU Web Application Development course. In this lesson, the basic JavaScript is introduced. 
 
 ### View Project:
-https://kanaled.github.io/lesson4_javascript1/
+https://kanaled.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
 1. Learned the basic JapvaScript Programming.
